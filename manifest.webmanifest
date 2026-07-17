@@ -1,0 +1,15 @@
+{
+  "name": "TurfAnalyse",
+  "short_name": "TurfAnalyse",
+  "description": "Analyse turf personnelle : classement predictif, journal de predictions, statistiques d'apprentissage.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b3d24",
+  "theme_color": "#0b3d24",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}

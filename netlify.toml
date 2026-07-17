@@ -1,0 +1,7 @@
+# Necessaire pour que Netlify detecte et deploie la fonction serverless
+# netlify/functions/pmu-cotes.js (recuperation fiable des cotes PMU, sans
+# restriction CORS), y compris pour un deploiement manuel par glisser-deposer
+# ("Deploy manually") du dossier TurfAnalyse-Web complet — aucune autre
+# configuration ni installation necessaire.
+[functions]
+  directory = "netlify/functions"
