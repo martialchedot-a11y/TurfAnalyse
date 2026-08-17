@@ -11,7 +11,7 @@
 // hors-ligne avec la derniere version vue.
 // =============================================================================
 
-const CACHE_NAME = 'turf-analyse-v44';
+const CACHE_NAME = 'turf-analyse-v45';
 const ASSETS = [
   './',
   './index.html',
